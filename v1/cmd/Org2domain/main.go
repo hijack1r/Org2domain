@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"strings"
 
-	"https://github.com/hijack1r/Org2domain/v1/pkg/runner"
+	"github.com/hijack1r/Org2domain/v1/pkg/runner"
 	"github.com/PuerkitoBio/goquery"
 )
 
