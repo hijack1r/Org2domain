@@ -15,9 +15,10 @@ Flags:
   -f string   File path of target file
   -p string   If need proxy to access Google, please set the proxy address
   -o string   Exported file name
-  
-  Such as:
-  ./Org2domain64.exe -f OrgEn.txt -p http://127.0.0.1:7890 -o OrgEn.csv
+```
+Such as:
+```
+  **./Org2domain64.exe -f OrgEn.txt -p http://127.0.0.1:7890 -o OrgName.csv**
 ```
 ![run](./static/run.jpg "run")
 ![verify](./static/verify.jpg "verify")
