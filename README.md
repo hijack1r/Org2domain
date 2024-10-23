@@ -1,5 +1,4 @@
-`Org2domain` is a primary domain name discovery tool that can help you quickly find the primary domain name corresponding to your target.
-This tool is very suitable for penetration test learners. When your leader throws you an organization list, do you still manually search for the corresponding primary domain name in the browser? Now `Org2domain` can help you do this in an automated and batch manner, so you can have a leisurely sip of coffee. This tool can recognize both Chinese and English organization names, and the name of income organizations is not limited by language.
+`Org2domain` is a quick primary domain name matching tool that can help you quickly find the primary domain name corresponding to your target organization. This tool is very suitable for penetration test learners. When your leader throws you an organization list, are you still manually looking for the completed primary domain name in your browser? Now `Org2domain` can take advantage of automation and large-scale, and you can take a leisurely sip of coffee. This tool is aimed at identifying nurses with Chinese and English organization names. The input organization names are not limited by language. 
 
 [中文说明.md](README_cn.md)
 # Usage
