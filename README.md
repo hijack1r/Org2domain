@@ -18,7 +18,7 @@ Flags:
 ```
 Such as:
 ```
-  **./Org2domain64.exe -f OrgEn.txt -p http://127.0.0.1:7890 -o OrgName.csv**
+  ./Org2domain64.exe -f OrgEn.txt -p http://127.0.0.1:7890 -o OrgName.csv
 ```
 ![run](./static/run.jpg "run")
 ![verify](./static/verify.jpg "verify")
