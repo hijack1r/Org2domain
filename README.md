@@ -20,8 +20,8 @@ Flags:
   Such as:
   ./Org2domain64.exe -f OrgEn.txt -p http://127.0.0.1:7890 -o OrgEn.csv
 ```
-![run](./run.jpg "run")
-![verify](./verify.jpg "verify")
+![run](./static/run.jpg "run")
+![verify](./static/verify.jpg "verify")
 
 # Declaration
 Since this tool was written by staying up late for a short period of time, my mind is dizzy, and I expect there will be many mistakes. Welcome to point them out. This tool is for learning use only. If there is any illegal behavior in the process of using this tool, you will bear all the consequences.
