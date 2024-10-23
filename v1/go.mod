@@ -1,4 +1,4 @@
-module Org2domain/v1
+module https://github.com/hijack1r/Org2domain/v1
 
 go 1.20
 
