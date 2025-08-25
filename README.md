@@ -24,4 +24,4 @@ Such as:
 ![verify](./static/verify.jpg "verify")
 
 # Declaration
-Since this tool was written by staying up late for a short period of time, my mind is dizzy, and I expect there will be many mistakes. Welcome to point them out. This tool is for learning use only. If there is any illegal behavior in the process of using this tool, you will bear all the consequences.
+This tool is for learning use only. If there is any illegal behavior in the process of using this tool, you will bear all the consequences.
